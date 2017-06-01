@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="app_name1">Floating Action Button</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="title_activity_new_message">Ny Besked</string>
+    <string name="hint_new_message">Besked</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_add_favourite">Tilføj til favoritter</string>
+    <string name="action_play_next">Spil Næste</string>
+    <string name="backdrop_title">ELSKER KODNING</string>
+    <string name="backdrop_subtitle">Eksempler på tiles i grid</string>
+
+    <string name="item_title">Material Design Card</string>
+    <string name="item_desc">Material Design er opfundet af Google.
+    </string>
+    <string name="detail_location">"Tegholmsgade, 2450 København, Danmark"</string>
+</resources>
